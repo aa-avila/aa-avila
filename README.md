@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently improving -> **NestJS, AWS DynamoDB & ReactJS**
 
-- 👨‍💻 All of my projects will be available soon at -> [www.agustin-avila.com](www.agustin-avila.com)
+- 👨‍💻 All of my projects will be available soon at -> [http://agustin-avila.com](http://agustin-avila.com)
 
 - 📫 Contact me! ->**agustin.avila.dev@gmail.com**
 
