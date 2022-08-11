@@ -2,7 +2,6 @@
 <h3 align="center">A fullstack developer from Córdoba, Argentina.</h3>
 <br>
 
-- 🌱 I'm currently improving my skills in -> **NestJS, AWS DynamoDB & ReactJS**
 
 - 📫 Contact me! ->**agustin.avila.dev@gmail.com**
 
